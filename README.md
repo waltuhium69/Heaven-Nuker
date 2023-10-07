@@ -53,7 +53,7 @@ PREMIUM VERSION:
 Download Heaven-Nuker.zip
 Extract File
 Tap "Install.bat" in GANG Folder
-Once All The Modules Have Been Installed GANG will Auto Launch!
+Once All The Modules Have Been Installed HEAVEN will Auto Launch!
 Enjoy!
 
 NOTE: When Opening Heaven-Nuker Just Tap "setup.bat" to Open Everytime!
