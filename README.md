@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=QqLqglDPNCE">TOKEN GENERATOR SHOWCASE</a>
+<a href="https://www.youtube.com/watch?v=QqLqglDPNC">TOKEN GENERATOR SHOWCASE</a>
 
  
 </p>
 <p align="center">
-<a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/download/v1.0.0/GANG-Nuker.zip">Fast Download</a> ㅤ•ㅤ
-<a href="https://discord.gg/F5eFWm2puM">Discord</a> ㅤ•ㅤ
-<a href="https://www.youtube.com/watch?v=nVkysvMVk-M">Setup Tutorial Video</a>
+<a href="https://github.com/waltuhium69/Heaven-Nuker/archive/refs/heads/main.zip">Fast Download</a> ㅤ•ㅤ
+<a href="hhttps://t.me/waltuhium">Telegram</a> ㅤ•ㅤ
+<a href="https://www.youtube.com/watch?v=nVkysvMVk-">Setup Tutorial Video</a>
 </p>
 </p>
 <p align="center">
@@ -19,17 +19,17 @@
 </p>
 <p align="center">
 PREMIUM VERSION:
-<a href="https://gangnuker.org/">WEBSITE</a>
+<a href="https://web.telegram.org/a/#5626872516">@waltuhsantana</a>
 </p>
  
 ---
-![image](https://user-images.githubusercontent.com/94531396/171850124-c9800302-5bbc-4032-9509-a51e56228374.png)
-![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
+![image](https://cdn.discordapp.com/attachments/1157080921019793500/1160280754199208107/IMG_9486.png?ex=653416a8&is=6521a1a8&hm=6b3265f2faaeb75cc6acdb5b6a495271f79b4d876ae17a7e0501787e31abdcbd&)
+![image](https://cdn.discordapp.com/attachments/1157080921019793500/1160280754538950676/IMG_9488.png?ex=653416a8&is=6521a1a8&hm=85496455c73c1a739e036de28f2cff50608951fd1921f3b342c8e7794a81d4db&)
 
 
 <p align="center"> 
   <kbd>
-<img src="https://media.discordapp.net/attachments/1105062508781387786/1113971492435267614/image.png?width=1330&height=662"></img>
+<img src="https://cdn.discordapp.com/attachments/1157080921019793500/1160275389940236298/Ekran_goruntusu_2023-10-07_205953.png?ex=653411a9&is=65219ca9&hm=d86c33f70bf4fd30dd91035b07a86df3b1b08f92d9d18e84b626c2b714905186&"></img>
   </kbd>
 </p>
 
@@ -44,27 +44,27 @@ PREMIUM VERSION:
 
 > **WARNING:** Many people have been selling/distributing of GANG-Nuker!
 
-> **DO NOT** Installing GANG-Nuker From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
+> **DO NOT** Installing Heaven-Nuker From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
 
 ## Installation
 
 #### Source Code Version (More complicated but less buggy)
 ```sh-session
-Download GANG-Nuker.zip
+Download Heaven-Nuker.zip
 Extract File
 Tap "Install.bat" in GANG Folder
 Once All The Modules Have Been Installed GANG will Auto Launch!
 Enjoy!
 
-NOTE: When Opening GANG-Nuker Just Tap "start.bat" to Open Everytime!
+NOTE: When Opening Heaven-Nuker Just Tap "setup.bat" to Open Everytime!
 NOTE: Make sure you have Python 3.9+ and Added to Path.
 ```
 
 #### Compiled Version (Easier but more buggy)
 ```sh-session
-Download: https://github.com/TT-Tutorials/GANG-Nuker/releases
+Download: https://github.com/waltuhium69/Heaven-Nuker/archive/refs/heads/main.zip
 Extract File
-Download the latest release (GANG-Nuker.zip) and Extract The Executable
+Download the latest release (Heaven-Nuker.zip) and Extract The Executable
 Launch Program and Enjoy!
 ```
 
