@@ -42,7 +42,7 @@ PREMIUM VERSION:
 - [x] - **Might Have Some Bugs**
 - [x] - **Python Provided**
 
-> **WARNING:** Many people have been selling/distributing of GANG-Nuker!
+> **WARNING:** Many people have been selling/distributing of Heaven-Nuker!
 
 > **DO NOT** Installing Heaven-Nuker From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
 
@@ -52,7 +52,7 @@ PREMIUM VERSION:
 ```sh-session
 Download Heaven-Nuker.zip
 Extract File
-Tap "Install.bat" in GANG Folder
+Tap "setup.bat" in HEAVEN Folder
 Once All The Modules Have Been Installed HEAVEN will Auto Launch!
 Enjoy!
 
