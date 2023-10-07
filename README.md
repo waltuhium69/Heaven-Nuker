@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/waltuhium69/Heaven-Nuker/archive/refs/heads/main.zip">Fast Download</a> ㅤ•ㅤ
-<a href="hhttps://t.me/waltuhium">Telegram</a> ㅤ•ㅤ
+<a href="https://t.me/waltuhium">Telegram</a> ㅤ•ㅤ
 <a href="https://www.youtube.com/watch?v=nVkysvMVk-">Setup Tutorial Video</a>
 </p>
 </p>
